@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+botconfig.example.json
+userconfig.example.json
+botconfig.json
+userconfig.json
+log.txt
+.htpasswd
+
+!*.keep
+!**/*.keep
